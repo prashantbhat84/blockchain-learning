@@ -1,0 +1,10 @@
+any information required for bootnode commands type bootnode --help.
+
+1. Set up the bootnode key.
+    bootnode -genkey boot.key
+2.Launch the bootnode. provide the path where the bootnode key is stored.
+    bootnode -nodekey  "./boot.key" -verbosity 9 -addr "127.0.0.1:30310"
+3.to connect peers using  bootnode copy the enode info provided when the bootnode is Launched.
+  then use the enode  info with the --bootnodes <value>  to Launch the peers.
+
+   

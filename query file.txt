@@ -1,0 +1,37 @@
+[{
+    caps: ["eth/62", "eth/63"],
+    id: "0b3de5b29ef4734b3c4d02f2e80cff48c6799ebc3bf4674ac41cf221daf31676abd410a1f2a28d3f8a68d9352cf1ec964bb314d45e756175046ad8968a65a123",
+    name: "Geth/v1.8.3-stable-329ac18e/windows-amd64/go1.10",
+    network: {
+      inbound: false,
+      localAddress: "127.0.0.1:40573",
+      remoteAddress: "127.0.0.1:30304",
+      static: true,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 1024,
+        head: "0x14d622acf2459a6a4b7221addd12b7e6b68829490a153f9719d4512bd1ba1c48",
+        version: 63
+      }
+    }
+}, {
+    caps: ["eth/62", "eth/63"],
+    id: "537e4f4f82fbe06629139c38be265dfb6f4c9a539ac066501f24af75b30c809115f5c61b54e9df39407d6490519ae6b38551e05e37b8798215b48251bdba67ae",
+    name: "Geth/v1.8.3-stable-329ac18e/windows-amd64/go1.10",
+    network: {
+      inbound: false,
+      localAddress: "127.0.0.1:40572",
+      remoteAddress: "127.0.0.1:30303",
+      static: true,
+      trusted: false
+    },
+    protocols: {
+      eth: {
+        difficulty: 1024,
+        head: "0x14d622acf2459a6a4b7221addd12b7e6b68829490a153f9719d4512bd1ba1c48",
+        version: 63
+      }
+    }
+}]

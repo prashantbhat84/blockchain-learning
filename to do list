@@ -1,0 +1,4 @@
+1. use the template for genesis.json to launch on clique.(POA) and test  on dapps.
+2. start themist wallet with the running  private network running and see  where it connects
+3. start the private network with the --dev and see what happens. compare the results.
+4. RPC port follow up.

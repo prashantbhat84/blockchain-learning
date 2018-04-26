@@ -1,0 +1,7 @@
+1. set up accounts on node 1 and node2.
+
+2.set up genisis block using puppeth.
+
+3.initialize   geth node 1 and node 2.
+
+4. set up launch
